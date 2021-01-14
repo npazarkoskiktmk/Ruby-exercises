@@ -1,0 +1,1 @@
+puts "#{"Learning Ruby".tr('aeiuy','')}"
