@@ -1,0 +1,1 @@
+"even?" and "odd?" methods can be used
